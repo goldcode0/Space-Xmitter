@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@openzeppelin/contract-loader": "^0.6.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.7.3",
+    "ethereumjs-util": "^7.1.5",
+    "openzeppelin-solidity": "^4.3.2",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-flattener": "^1.6.0",
+    "truffle-hdwallet-provider": "^1.0.6",
+    "web3": "^1.7.5"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@openzeppelin/truffle-upgrades": "^1.17.0",
+    "bignumber.js": "^9.0.1",
+    "erc721a": "^4.2.2",
+    "truffle-plugin-verify": "^0.5.20"
+  }
+}
